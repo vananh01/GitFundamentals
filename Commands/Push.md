@@ -25,7 +25,7 @@ After this command is used, you can just use `git push` and it will function the
 
 ## Resources
 
--[Git Push Documentation](https://git-scm.com/docs/git-push)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 
 ---
 
